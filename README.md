@@ -3,7 +3,6 @@
 A RESTful web application for managing student data, built with 
 Java and Spring Boot.
 
----
 
 ## 📋 About The Project
 
@@ -12,7 +11,6 @@ that enables full management of student records through a clean
 MVC architecture. Built using Spring Boot with MySQL database 
 integration and validated using Postman.
 
----
 
 ## ✨ Features
 
@@ -23,7 +21,6 @@ integration and validated using Postman.
 - ✅ API testing and validation with Postman
 - 📦 Maven build management
 
----
 
 ## 🛠️ Built With
 
@@ -36,7 +33,6 @@ integration and validated using Postman.
 | Maven | Build tool |
 | Postman | API testing |
 
----
 
 ## 📁 Project Structure
 
@@ -48,7 +44,6 @@ student-data-management-system/
 ├── .mvn/wrapper/           # Maven wrapper
 └── pom.xml                 # Project dependencies
 
----
 
 ## 🚀 Getting Started
 
