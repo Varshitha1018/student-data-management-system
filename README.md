@@ -1,5 +1,4 @@
 # 🎓 Student Data Management System
-
 A RESTful web application for managing student data, built with 
 Java and Spring Boot.
 
