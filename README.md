@@ -76,8 +76,6 @@ Import the project into Postman and test the REST endpoints for:
 - PUT update student
 - DELETE student
 
----
-
 ## 👩‍💻 Author
 
 **Varshitha Edula**  
